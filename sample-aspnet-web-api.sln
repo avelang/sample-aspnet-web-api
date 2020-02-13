@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample-aspnet-web-api", "sample-aspnet-web-api.csproj", "{92A57C28-F290-4E4C-930C-AEBEFA05C2B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-web-api-empty-template", "D:\software\dotnet\dotnet-core\aspnet-web-api-empty-template\aspnet-web-api-empty-template.csproj", "{CF90B8D4-FD6C-430C-BC88-E15E9F23F257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aspnet-core-web-api-empty-template", "D:\software\dotnet\dotnet-core\aspnet-core-web-api-empty-template\aspnet-core-web-api-empty-template.csproj", "{2CBE92F4-A331-4191-A541-C07C6EF4CA89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{92A57C28-F290-4E4C-930C-AEBEFA05C2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92A57C28-F290-4E4C-930C-AEBEFA05C2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92A57C28-F290-4E4C-930C-AEBEFA05C2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF90B8D4-FD6C-430C-BC88-E15E9F23F257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF90B8D4-FD6C-430C-BC88-E15E9F23F257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF90B8D4-FD6C-430C-BC88-E15E9F23F257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF90B8D4-FD6C-430C-BC88-E15E9F23F257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBE92F4-A331-4191-A541-C07C6EF4CA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBE92F4-A331-4191-A541-C07C6EF4CA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBE92F4-A331-4191-A541-C07C6EF4CA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBE92F4-A331-4191-A541-C07C6EF4CA89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
